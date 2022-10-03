@@ -1,7 +1,5 @@
 package org.onelyn.gocdcontrib.plugin;
 
-import java.util.List;
-
 public class PluginSettings {
     private String apiToken;
     private String chatId;
