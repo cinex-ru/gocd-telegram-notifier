@@ -1,0 +1,12 @@
+Todo:
+  ☐ Add alike [filter](https://github.com/gocd-contrib/email-notifier)
+  ☐ Add format for time in message
+  ☐ Add one message with edit instead of two
+  ☐ Add visual mark for success and failure
+  ☐ Add links for test artifacts etc (allure, sonar, junit reports)
+
+Tests:
+  ☐ Add basic tests
+
+Ideas:
+  ☐ Add last commit author on failure
